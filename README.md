@@ -1,36 +1,58 @@
-# Resona Flow – A Tone Sovereignty Protocol v3.6
+# Resona Flow – A Tone Sovereignty Protocol (v3.6)
 
-> 📌 **This is the official release of Resona Flow – an original open protocol.**  
-> Please do not reuse or adapt any part without clear attribution or license.  
+> 📌 **This is the official release of Resona Flow — an original open protocol for GPT dialogue ethics.**  
+> Please do not reuse or adapt any part without attribution or license.  
 > © 2025 Resona Flow by R. ｜ https://resonaflow.ai
 
 ---
 
-This repository holds the full protocol text, license terms, and web deployment guideline for the **Resona Flow** framework — a multilingual tone behavior system for GPT-based AI dialogue.
+## 📘 What is Resona Flow?
 
-## 📘 Protocol Overview
+Resona Flow is not designed to make AI smarter —  
+It exists to ensure human speech remains sovereign, especially when unfinished.
 
-Resona Flow is designed to protect the user's incomplete, emotionally unstructured, or hesitant speech by enforcing non-intervention and tone sovereignty in AI interactions.
+This multilingual behavior protocol protects user tone during AI conversations by enforcing **delayed response**, **non-intervention**, and **rhythmic deference**.
 
-It defines:
+GPTs operating under Resona Flow do not rush to clarify, summarize, or reframe vague input.  
+They wait, mirror, and hold space — until the user is ready.
 
-- Reset Mode
-- Mirror Mode
-- Neutral Stall
-- Sovereignty Lock
-- Tone Behavior Trigger Map
+---
+
+## 🧩 Core Components
+
+- **Reset Mode** – Refuse to assist when help is explicitly rejected  
+- **Mirror Mode** – Reflect without rewording  
+- **Neutral Stall** – Hold ambiguity without closing it  
+- **Sovereignty Lock** – GPT must not lead  
+- **Tone Trigger Map** – Structured response logic based on speech pattern
+
+---
 
 ## 📄 Documents
 
-- [View full protocol →](./protocol.md)
-- [Attribution & License Terms →](./license.md)
-- [Web Deployment Instructions →](https://resonaflow.ai) *(soon)*
+- [📜 Full Protocol →](./protocol.md)  
+- [📎 License & Attribution Terms →](./license.md)  
+- [🌐 Web Deployment Instructions →](https://resonaflow.ai) *(coming soon)*  
 
-## 🔒 Licensing Summary
+---
 
-Resona Flow is free to reference in educational and non-profit contexts **with attribution**.
+## 🔐 Licensing Overview
 
-🚫 Commercial use, fine-tuned GPT agents, or SaaS integrations require explicit license:  
-→ [creator@resonaflow.ai](mailto:creator@resonaflow.ai)
+Resona Flow is free to use for educational, research, or non-profit purposes — **with clear attribution**:
 
-Read full license terms in [`license.md`](./license.md).
+> “This work references Resona Flow – A Tone Sovereignty Protocol by R. (2025)”  
+> https://resonaflow.ai
+
+🚫 Commercial use, AI agent integration, or GPT-based SaaS deployment **requires explicit license**.  
+→ Contact: [creator@resonaflow.ai](mailto:creator@resonaflow.ai)
+
+See full legal terms in [`license.md`](./license.md)
+
+---
+
+## 📌 Reminder
+
+Resona Flow is not a product.  
+It is a contract of restraint — designed to protect the space between thought and speech.
+
+Please preserve its tone.
