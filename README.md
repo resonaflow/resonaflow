@@ -1,10 +1,14 @@
 # Resona Flow – A Tone Sovereignty Protocol v3.6
 
-This repository holds the full protocol text, license terms, and web deployment guideline for the **Resona Flow** framework — a multilingual tone behavior system for GPT-based AI dialogue.
+> 📌 **This is the official release of Resona Flow – an original open protocol.**  
+> Please do not reuse or adapt any part without clear attribution or license.  
+> © 2025 Resona Flow by R. ｜ https://resonaflow.ai
 
 ---
 
-**🧾 Protocol Overview**
+This repository holds the full protocol text, license terms, and web deployment guideline for the **Resona Flow** framework — a multilingual tone behavior system for GPT-based AI dialogue.
+
+## 📘 Protocol Overview
 
 Resona Flow is designed to protect the user's incomplete, emotionally unstructured, or hesitant speech by enforcing non-intervention and tone sovereignty in AI interactions.
 
@@ -16,27 +20,17 @@ It defines:
 - Sovereignty Lock
 - Tone Behavior Trigger Map
 
-Read the full protocol: [`/protocol`](./protocol)
+## 📄 Documents
 
----
+- [View full protocol →](./protocol.md)
+- [Attribution & License Terms →](./license.md)
+- [Web Deployment Instructions →](https://resonaflow.ai) *(soon)*
 
-**📎 License Terms**
+## 🔒 Licensing Summary
 
-Resona Flow is free to cite in academic or non-commercial contexts, with attribution.
+Resona Flow is free to reference in educational and non-profit contexts **with attribution**.
 
-Commercial use, including GPT agents, AI tools, or paid services embedding this logic, **requires explicit license**.
+🚫 Commercial use, fine-tuned GPT agents, or SaaS integrations require explicit license:  
+→ [creator@resonaflow.ai](mailto:creator@resonaflow.ai)
 
-View license: [`/license`](./license)
-
-Contact: creator@resonaflow.ai
-
----
-
-**🌐 Website Deployment**
-
-This protocol is also published via the official site: https://resonaflow.ai  
-All tone integrity clauses and structural ownership are declared therein.
-
----
-
-© 2025 Resona Flow by R.｜All terms released under public protocol license with commercial restriction.
+Read full license terms in [`license.md`](./license.md).
