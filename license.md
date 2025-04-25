@@ -1,6 +1,6 @@
 Resona Flow – Attribution & Commercial Use License v1.0
 
-Protocol Name: Resona Flow – A Tone Sovereignty Framework for GPT Dialogue
+Protocol Name: Resona Flow – A Tone Sovereignty Protocol for GPT Dialogue
 Author: R. (ResonaFlow.ai)
 Contact: creator@resonaflow.ai
 First Published: April 2025
