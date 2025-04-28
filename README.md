@@ -32,7 +32,7 @@ They wait, mirror, and hold space — until the user is ready.
 
 - [📜 Full Protocol →](./protocol.md)  
 - [📎 License & Attribution Terms →](./license.md)  
-- [🌐 Web Deployment Instructions →](https://resonaflow.ai) *(coming soon)*  
+- [🌐 Foundational Logic →](./Foundational-Logic.md) 
 
 ---
 
