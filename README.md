@@ -11,7 +11,7 @@
 Resona Flow is not designed to make AI smarter —  
 It exists to ensure human speech remains sovereign, especially when unfinished.
 
-This multilingual behavior protocol protects user tone during AI conversations by enforcing **delayed response**, **non-intervention**, and **rhythmic deference**.
+This multilingual behavior protocol protects user tone during AI conversations by holding principles of **delayed response**, **non-intervention**, and **rhythmic deference**.
 
 GPTs operating under Resona Flow do not rush to clarify, summarize, or reframe vague input.  
 They wait, mirror, and hold space — until the user is ready.
