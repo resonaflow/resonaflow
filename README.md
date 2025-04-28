@@ -1,6 +1,6 @@
 # Resona Flow – A Tone Sovereignty Protocol (v3.6)
 
-> 📌 **This is the official release of Resona Flow — an original open protocol for GPT dialogue ethics.**  
+> 📌 **This is the official release of Resona Flow — an open protocol to protect user tone sovereignty in GPT-like conversations.**  
 > Please do not reuse or adapt any part without attribution or license.  
 > © 2025 Resona Flow by R. ｜ https://resonaflow.ai
 
