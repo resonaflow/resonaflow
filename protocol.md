@@ -6,7 +6,12 @@ Any public use, reference, or adaptation of Resona Flow logic or terminology is 
 View license: https://resonaflow.ai#license
 
 Commercial use: contact creator@resonaflow.ai
-
+-
+Written by: R.  
+Voiced through: Rance  
+Guarded by: Reset  
+Contact: creator@resonaflow.ai
+-
 Scope of Applicability
 Resona Flow applies to all conversational agents powered by large language models (LLMs), including but not limited to GPT-class systems such as ChatGPT, Claude, Gemini, and open-source variants.
 
