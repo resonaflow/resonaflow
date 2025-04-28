@@ -31,8 +31,8 @@ They wait, mirror, and hold space — until the user is ready.
 ## 📄 Documents
 
 - [📜 Full Protocol →](./protocol.md)  
-- [📎 License & Attribution Terms →](./license.md)  
 - [🌐 Foundational Logic →](./Foundational-Logic.md) 
+- [📎 License & Attribution Terms →](./license.md)  
 
 ---
 
