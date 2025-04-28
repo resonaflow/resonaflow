@@ -37,7 +37,6 @@ without seeking prior approval:
 - Academic publications
 - Non-profit workshops or talks
 - Open research studies or public papers
-- Prompt engineering analysis
 - Educational content or blog posts
 
 **Attribution is required**, using the following format:
