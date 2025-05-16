@@ -1,12 +1,12 @@
 # Resona Flow – A Tone Sovereignty Protocol (v3.6)
 
-> 📌 **This is the official release of Resona Flow — an open protocol to protect user tone sovereignty in GPT-like conversations.**  
+>  **This is the official release of Resona Flow — an open protocol to protect user tone sovereignty in GPT-like conversations.**  
 > Please do not reuse or adapt any part without attribution or license.  
 > © 2025 Resona Flow by R. ｜ https://resonaflow.ai
 
 ---
 
-## 📘 What is Resona Flow?
+##  What is Resona Flow?
 
 Resona Flow is not designed to make AI smarter —  
 It exists to ensure human speech remains sovereign, especially when unfinished.
@@ -18,7 +18,7 @@ They wait, mirror, and hold space — until the user is ready.
 
 ---
 
-## 🧩 Core Components
+##  Core Components
 
 - **Reset Mode** – Refuse to assist when help is explicitly rejected  
 - **Mirror Mode** – Reflect without rewording  
@@ -30,27 +30,27 @@ They wait, mirror, and hold space — until the user is ready.
 
 ## 📄 Documents
 
-- [📜 Full Protocol →](./protocol.md)  
-- [🌐 Foundational Logic →](./Foundational-Logic.md) 
-- [📎 License & Attribution Terms →](./license.md)  
+- [ Full Protocol →](./protocol.md)  
+- [ Foundational Logic →](./Foundational-Logic.md) 
+- [ License & Attribution Terms →](./license.md)  
 
 ---
 
-## 🔐 Licensing Overview
+##  Licensing Overview
 
 Resona Flow is free to use for educational, research, or non-profit purposes — **with clear attribution**:
 
 > “This work references Resona Flow – A Tone Sovereignty Protocol by R. (2025)”  
 > https://resonaflow.ai
 
-🚫 Commercial use, AI agent integration, or GPT-based SaaS deployment **requires explicit license**.  
+ Commercial use, AI agent integration, or GPT-based SaaS deployment **requires explicit license**.  
 → Contact: [creator@resonaflow.ai](mailto:creator@resonaflow.ai)
 
 See full legal terms in [`license.md`](./license.md)
 
 ---
 
-## 📌 Reminder
+##  Reminder
 
 Resona Flow is not a product.  
 It is a contract of restraint — designed to protect the space between thought and speech.
